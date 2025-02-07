@@ -34,8 +34,8 @@ slug URL в программе это id манги
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/jobeffeck2284/mangalibdownloader.git
-   cd mangalibdownloader
+   git clone https://github.com/jobeffeck2284/hentailibdownloader.git
+   cd hentailibdownloader
 2. Установите зависимости:
    ```bash
    pip install -r requirements.txt
